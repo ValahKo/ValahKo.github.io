@@ -1,2 +1,2 @@
 # ValahKo.github.io
-first project
+Мой первый опубликованый сайт
