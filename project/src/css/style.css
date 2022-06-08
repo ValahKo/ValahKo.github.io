@@ -1,0 +1,78 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  /* задали вид шрифта*/
+    line-height: 1.5;   /* межстрочные интервалы*/
+    color: #333333;
+
+}
+.section{
+    padding:30px 10% ;
+}
+.heder{
+    margin-top: 80px;
+    text-align: center; /* текст выравнен по центру*/
+    font-size: 24px;   /* задаем размер тексту*/
+}
+.heder span{
+    display: block;  /* делаем шрифт блочным что бы его опустить*/
+    
+    font-weight: 300px; /* жирность текста*/
+}
+.heder strong{
+    font-weight: 900px; /* жирность текста*/
+    text-transform: uppercase;  /* делаем заглавными буквами*/
+}
+.nain{
+    text-align: center;  /*display: inline-block выравниваем по центру */
+    margin-top: 80px;
+}
+.video, .form{
+    display: inline-block;
+   
+    vertical-align: top;
+}
+.form{
+    margin-left: 30px;
+    text-align: center;
+    padding: 28px;
+    border: 5px solid #2727d9;
+}
+.fon-heder{
+    font-size: 20px; 
+    text-align: center;
+    font-weight: 900; /* жирность текста*/
+    margin-bottom: 20px;
+}
+.form input{
+    display: block;
+    width: 300px;
+    margin-top: 10px;
+    padding: 17px;
+    border: 1px solid #333333;
+    font-size: 18px;
+}
+.btm{
+    font-size: 20px;
+     color: beige;
+    padding: 20px;
+    background: #2727d9;
+    width: 300px;
+    margin-top: 10px;
+    display: block;
+    margin: 11px auto;/*  сверху 11 а по краям автоматически. Стало по центру*/
+}
+.col{
+    display: inline-block;
+    text-align: center;
+    margin: 10px 50px;
+}
+.hait-heder{
+    text-align: center;
+    text-transform: uppercase;/*  текста заглавными буквами */
+    font-weight: 900;/* жирность текста*/
+    font-size: 24px; /* размер текста*/
+
+}
+.fyter{
+    margin: 60px auto;
+    text-align: center;/*  выравнивание по центру  */
+}
