@@ -1,0 +1,50 @@
+.heder{
+    font-size: 20px;
+    line-height: 40px;
+    margin: 60px auto;
+}
+.container{
+   
+    padding: 30px;
+}
+.video{
+    margin-bottom: 20px;
+}
+.heder span{
+    display: block;
+}
+.form{
+    border: 5px solid #3924c7;
+    padding: 35px 20px;
+   
+}
+.form input{
+    margin-bottom: 20px;
+}
+.form-header,.container-heder{
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+ 
+
+
+.feature-box{
+    margin: 60px auto;
+}
+.feature p{
+    margin-top: 20px;
+}
+.feature-box{
+    height: 160px;
+}
+.container-heder{
+   margin-top: 100px;
+  
+}
+ .ature-box{
+    margin: top 10px;
+    background: rgb(192, 157, 226);
+}
+
+
